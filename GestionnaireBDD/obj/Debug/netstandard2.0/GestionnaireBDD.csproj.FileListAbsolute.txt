@@ -1,0 +1,24 @@
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.deps.json
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.dll
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfoInputs.cache
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfo.cs
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.pdb
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\bin\Debug\netstandard2.0\MetierTrader.dll
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\bin\Debug\netstandard2.0\MetierTrader.pdb
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CoreCompileInputs.cache
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CopyComplete
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.dll
+P:\LeRebours\SIO2\ProjetTrader\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.pdb
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.deps.json
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.dll
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\bin\Debug\netstandard2.0\GestionnaireBDD.pdb
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\bin\Debug\netstandard2.0\MetierTrader.dll
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\bin\Debug\netstandard2.0\MetierTrader.pdb
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csprojAssemblyReference.cache
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfoInputs.cache
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.AssemblyInfo.cs
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CoreCompileInputs.cache
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.csproj.CopyComplete
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.dll
+C:\CSHARP\ProjetTrader - Etudiants\GestionnaireBDD\obj\Debug\netstandard2.0\GestionnaireBDD.pdb

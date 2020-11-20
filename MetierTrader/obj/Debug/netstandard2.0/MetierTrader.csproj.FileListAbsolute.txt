@@ -1,0 +1,18 @@
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.deps.json
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.dll
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.pdb
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.csprojAssemblyReference.cache
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.AssemblyInfoInputs.cache
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.AssemblyInfo.cs
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.csproj.CoreCompileInputs.cache
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.dll
+P:\LeRebours\SIO2\ProjetTrader\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.pdb
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.deps.json
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.dll
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\bin\Debug\netstandard2.0\MetierTrader.pdb
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.csprojAssemblyReference.cache
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.AssemblyInfoInputs.cache
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.AssemblyInfo.cs
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.csproj.CoreCompileInputs.cache
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.dll
+C:\CSHARP\ProjetTrader - Etudiants\MetierTrader\obj\Debug\netstandard2.0\MetierTrader.pdb
